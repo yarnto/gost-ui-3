@@ -1,0 +1,16 @@
+{
+  "name": "gost-ui-3",
+  "version": "3.0.0",
+  "description": "it is for gost ui 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "waves zhang",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^11.5.0",
+    "electron-builder": "^22.14.13",
+    "electron-packager": "^15.5.1"
+  }
+}
