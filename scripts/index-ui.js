@@ -464,5 +464,5 @@ function stopConnection() {
 
 function clearLog() {
     $("#gostLog").html("")
-    let currentLogLine = 0
+    currentLogLine = 0
 }
